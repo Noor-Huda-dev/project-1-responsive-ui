@@ -13,15 +13,6 @@
 
 ---
 
-## 📸 Project Preview
-
-> *(Add your project screenshot or GIF here.)*
-
-```md
-![Project Preview](./preview.png)
-```
-
----
 
 # 🎯 The Vision
 
